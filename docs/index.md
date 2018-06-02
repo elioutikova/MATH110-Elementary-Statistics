@@ -5,7 +5,7 @@
 ![](images/banner.jpg){img:height="300px" width="100%"}
 <!-- If you don't want a banner, delete the previous line.  -->
 
-## Welcome
+## Hi!
 
 - My name is Dr.L. 
 - Office Hours: all the time, any time 
