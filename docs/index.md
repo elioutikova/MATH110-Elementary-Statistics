@@ -11,6 +11,8 @@
 - Office Hours: all the time, any time 
 - Textbook: don't have one yet
 
+[Here is a link to a CSV file](text.csv)
+
 
 ## Daily schedule: Fall 2018
 
